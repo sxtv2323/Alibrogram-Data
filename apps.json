@@ -1,3 +1,12 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": "app_1784069451887",
+      "name": "ALISHOT",
+      "image": "https://raw.githubusercontent.com/sxtv2323/Alibrogram-Data/main/img/1784069447465_file_00000000033071f4bdf5b2a3b0cb7992.png",
+      "details": "تطبيق مباريات وافلام ومسلسلات واخبار وملخصات وغيرها الكثير",
+      "downloadUrl": "http://www.mediafire.com/file/o1qshiow9bhsh5t/ALISHOOT_9.0.0.apk",
+      "order": 0
+    }
+  ]
 }
