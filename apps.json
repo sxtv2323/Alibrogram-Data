@@ -1,11 +1,3 @@
 {
-  "apps": [
-    {
-      "id": "app_1784027582467",
-      "name": "ALISHOOT",
-      "image": "data:image/png;/ وجدولت وجدول المباريان المفصل",
-      "downloadUrl": "http://www.mediafire.com/file/o1qshiow9bhsh5t/ALISHOOT_9.0.0.apk",
-      "order": 0
-    }
-  ]
+  "apps": []
 }
