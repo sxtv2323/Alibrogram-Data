@@ -1,13 +1,3 @@
 {
-  "courses": [
-    {
-      "id": "course_1784037981544",
-      "title": "الحلقة الاولى تعلم HTML",
-      "description": "تعلم اساسية ال HTML",
-      "thumbnail": "https://raw.githubusercontent.com/sxtv2323/ALISHOT-IPTV/refs/heads/main/IMG_20260702_014710_165.jpg",
-      "videoType": "youtube",
-      "videoUrl": "https://youtu.be/9f_ZiZtIJOg?si=0oSBn-fQgD1q2CKa",
-      "order": 0
-    }
-  ]
+  "courses": []
 }
