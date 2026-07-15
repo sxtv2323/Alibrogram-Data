@@ -1,3 +1,12 @@
 {
-  "codes": []
+  "codes": [
+    {
+      "id": "code_1784130044484",
+      "name": "زر اضغط",
+      "image": "https://raw.githubusercontent.com/sxtv2323/Alibrogram-Data/main/img/1784130042756_Screenshot________________.jpg",
+      "details": "هذة زر يمكنك تغير لونة ويمكنك تغير عبارة اضغط وتخلية لاي وضيفة",
+      "code": "<!DOCTYPE html>\n<html lang=\"ar\">\n<head>\n<meta charset=\"UTF-8\">\n<style>\nbody{\n    \n.press-btn{\n    width:220px;\n    height:60px;\n    border:none;\n    border-radius:18px;\n    background:linear-gradient(135deg,#3b82f6,#2563eb);\n    color:#fff;\n    font-size:22px;\n    font-weight:bold;\n    letter-spacing:1px;\n    box-shadow:0 10px 30px rgba(37,99,235,.35);\n}\n</style>\n</head>\n<body>\n<button class=\"press-btn\">اضغط</button>\n</body>\n</html>",
+      "order": 0
+    }
+  ]
 }
